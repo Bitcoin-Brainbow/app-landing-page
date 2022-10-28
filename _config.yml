@@ -55,8 +55,8 @@ features                                  :
     description                           : Live exchange rates between BTC/Sats and fiat currencies.
     fontawesome_icon_name                 : exchange
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Stateless mobile wallet 
+    description                           : Nothing is stored on the device. Log-of, and everything is removed automagically. Use someone else's mobile to access your bitcoin.
     fontawesome_icon_name                 : star
 
   - title                                 : Smart App Banner
