@@ -82,9 +82,9 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : https://pbs.twimg.com/profile_banners/1567813523077562369/1663751760/1500x500
-cover_overlay_color                       : "#363b3d"
-cover_overlay_transparency                : 0.8
+cover_image                               : assets/headerimage.png                    #
+cover_overlay_color                       : "#ffffff"
+cover_overlay_transparency                : 0
 
 device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
