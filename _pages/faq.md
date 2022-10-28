@@ -8,8 +8,10 @@ include_in_header: true
 Here you can find answers ... 
 <br>
 
-## Q: Is ther e a sats doubler? 
+## Is there a sats doubler? 
 
-### A: No.
+**No. there is now "sats doubler" included,** but is't easy to emned am external one.  
+
+
 
 <br>
