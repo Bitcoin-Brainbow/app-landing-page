@@ -35,15 +35,15 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Tor
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : Login-to-Bitcoin approach
+    description                           : Instead of using 12/24 recovery words nobody can't remember, Brainbow Wallet uses the WarpWallet technique to generate your HD Wallet. 
     fontawesome_icon_name                 : tor
     
   - title                                 : RBF
     description                           : Replace by Fee support, on by default
     fontawesome_icon_name                 : plus
 
-  - title                                 : Video Support
+  - title                                 : Tor 
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
     fontawesome_icon_name                 : play-circle
 
@@ -59,12 +59,12 @@ features                                  :
     description                           : Nothing is stored on the device. Log-of, and everything is removed automagically. Use someone else's mobile to access your bitcoin.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
+  - title                                 : Easy wallet-to-wallet transfer
+    description                           : Migrate or clone wallet using standard wallet import format (WIF). 
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
+    description                           : 
     fontawesome_icon_name                 : link
 
   - title                                 : FontAwesome Support
