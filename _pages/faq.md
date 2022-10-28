@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A frequently asked questions (FAQ) list
+title: Frequently asked Questions
 include_in_header: true
 ---
 
