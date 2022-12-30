@@ -25,7 +25,7 @@ Sure. There are many ways to generate a "horse battery staple" – to generate 
 We recommend using the [Diceware Password Generator](https://diceware.dmuth.org/).
 
 
-### Is it possible to load my wallet into SparrowWallet?
+### Is it possible to load my Brainbow wallet into another wallet?
 
 Yes. Use your wallet's BIP32 master private key or your BIP39 mnemonic (the 12 recovery words) and import it in another wallet.
 <br>
