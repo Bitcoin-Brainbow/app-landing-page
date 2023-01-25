@@ -51,5 +51,4 @@ No. A seed phrase usually means a 12 or 24 word combination of words taken from 
  
 Also, do not confuse it with the BIP-39 passphrase which adds a extra layer of security to the 12 or 24 word mnemonic. 
 
-
-### 
+###  
